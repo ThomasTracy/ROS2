@@ -1,0 +1,4 @@
+Invoking command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jszr/Software/Ros2/bag_reader/build/bag_reader -- -j18 -l18
+Invoked command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jszr/Software/Ros2/bag_reader/build/bag_reader -- -j18 -l18
+Invoking command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jszr/Software/Ros2/bag_reader/build/bag_reader
+Invoked command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jszr/Software/Ros2/bag_reader/build/bag_reader

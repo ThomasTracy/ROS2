@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target parse_bag[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/parse_bag.dir/src/bag_reader.cpp.o[0m
+[100%] [32m[1mLinking CXX executable parse_bag[0m
+[100%] Built target parse_bag
+-- Install configuration: ""
+-- Installing: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/lib/bag_reader/parse_bag
+-- Set runtime path of "/home/jszr/Software/Ros2/bag_reader/install/bag_reader/lib/bag_reader/parse_bag" to ""
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/ament_index/resource_index/package_run_dependencies/bag_reader
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/ament_index/resource_index/parent_prefix_path/bag_reader
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/ament_prefix_path.sh
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/path.sh
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/path.dsv
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.bash
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.sh
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.zsh
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.dsv
+-- Installing: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/package.dsv
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/ament_index/resource_index/packages/bag_reader
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/cmake/bag_readerConfig.cmake
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/cmake/bag_readerConfig-version.cmake
+-- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/package.xml

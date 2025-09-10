@@ -1,0 +1,17 @@
+[0.386s] Invoking command in '/home/jszr/Software/Ros2/Topic/novel/src/python_topic': CONDA_PROMPT_MODIFIER=(autolabel_3.9) PYTHONPATH=/home/jszr/Software/Ros2/Topic/novel/build/python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python_topic build --build-base /home/jszr/Software/Ros2/Topic/novel/build/python_topic/build install --record /home/jszr/Software/Ros2/Topic/novel/build/python_topic/install.log --single-version-externally-managed install_data
+[0.531s] running egg_info
+[0.534s] writing manifest file '../../build/python_topic/python_topic.egg-info/SOURCES.txt'
+[0.534s] running build
+[0.534s] running build_py
+[0.534s] copying python_topic/novel_pub_node.py -> /home/jszr/Software/Ros2/Topic/novel/build/python_topic/build/lib/python_topic
+[0.534s] running install
+[0.535s] running install_lib
+[0.536s] copying /home/jszr/Software/Ros2/Topic/novel/build/python_topic/build/lib/python_topic/novel_pub_node.py -> /home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages/python_topic
+[0.536s] byte-compiling /home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages/python_topic/novel_pub_node.py to novel_pub_node.cpython-310.pyc
+[0.536s] running install_data
+[0.536s] running install_egg_info
+[0.537s] removing '/home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages/python_topic-0.0.0-py3.10.egg-info' (and everything under it)
+[0.537s] Copying ../../build/python_topic/python_topic.egg-info to /home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages/python_topic-0.0.0-py3.10.egg-info
+[0.538s] running install_scripts
+[0.550s] writing list of installed files to '/home/jszr/Software/Ros2/Topic/novel/build/python_topic/install.log'
+[0.569s] Invoked command in '/home/jszr/Software/Ros2/Topic/novel/src/python_topic' returned '0': CONDA_PROMPT_MODIFIER=(autolabel_3.9) PYTHONPATH=/home/jszr/Software/Ros2/Topic/novel/build/python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python_topic build --build-base /home/jszr/Software/Ros2/Topic/novel/build/python_topic/build install --record /home/jszr/Software/Ros2/Topic/novel/build/python_topic/install.log --single-version-externally-managed install_data

@@ -1,0 +1,14 @@
+[0.009s] Invoking command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jszr/Software/Ros2/bag_reader/build/bag_reader -- -j18 -l18
+[0.038s] [35m[1mConsolidate compiler generated dependencies of target parse_bag[0m
+[0.047s] [ 50%] [32mBuilding CXX object CMakeFiles/parse_bag.dir/src/bag_reader.cpp.o[0m
+[1.064s] [01m[K/home/jszr/Software/Ros2/bag_reader/src/bag_reader/src/bag_reader.cpp:[m[K In member function ‘[01m[Kvoid RosbagParser::processCompressedImage(std::shared_ptr<rosbag2_storage::SerializedBagMessage>)[m[K’:
+[1.064s] [01m[K/home/jszr/Software/Ros2/bag_reader/src/bag_reader/src/bag_reader.cpp:101:13:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[Kstd[m[K’
+[1.064s]   101 |             [01;31m[Kstd[m[K::string image_dir = output_dir_ + "/images/" + topic_dir;
+[1.064s]       |             [01;31m[K^~~[m[K
+[1.069s] [01m[K/home/jszr/Software/Ros2/bag_reader/src/bag_reader/src/bag_reader.cpp:102:36:[m[K [01;31m[Kerror: [m[K‘[01m[Kimage_dir[m[K’ was not declared in this scope
+[1.069s]   102 |             fs::create_directories([01;31m[Kimage_dir[m[K);
+[1.069s]       |                                    [01;31m[K^~~~~~~~~[m[K
+[1.578s] gmake[2]: *** [CMakeFiles/parse_bag.dir/build.make:76：CMakeFiles/parse_bag.dir/src/bag_reader.cpp.o] 错误 1
+[1.578s] gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/parse_bag.dir/all] 错误 2
+[1.579s] gmake: *** [Makefile:146：all] 错误 2
+[1.583s] Invoked command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jszr/Software/Ros2/bag_reader/build/bag_reader -- -j18 -l18

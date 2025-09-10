@@ -1,0 +1,10 @@
+[01m[K/home/jszr/Software/Ros2/bag_reader/src/bag_reader/src/bag_reader.cpp:[m[K In member function ‘[01m[Kvoid RosbagParser::processCompressedImage(std::shared_ptr<rosbag2_storage::SerializedBagMessage>)[m[K’:
+[01m[K/home/jszr/Software/Ros2/bag_reader/src/bag_reader/src/bag_reader.cpp:101:13:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[Kstd[m[K’
+  101 |             [01;31m[Kstd[m[K::string image_dir = output_dir_ + "/images/" + topic_dir;
+      |             [01;31m[K^~~[m[K
+[01m[K/home/jszr/Software/Ros2/bag_reader/src/bag_reader/src/bag_reader.cpp:102:36:[m[K [01;31m[Kerror: [m[K‘[01m[Kimage_dir[m[K’ was not declared in this scope
+  102 |             fs::create_directories([01;31m[Kimage_dir[m[K);
+      |                                    [01;31m[K^~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/parse_bag.dir/build.make:76：CMakeFiles/parse_bag.dir/src/bag_reader.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/parse_bag.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

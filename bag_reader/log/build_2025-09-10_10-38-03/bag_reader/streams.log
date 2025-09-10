@@ -1,0 +1,26 @@
+[0.009s] Invoking command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jszr/Software/Ros2/bag_reader/build/bag_reader -- -j18 -l18
+[0.041s] [35m[1mConsolidate compiler generated dependencies of target parse_bag[0m
+[0.053s] [ 50%] [32mBuilding CXX object CMakeFiles/parse_bag.dir/src/bag_reader.cpp.o[0m
+[1.756s] [100%] [32m[1mLinking CXX executable parse_bag[0m
+[2.013s] [100%] Built target parse_bag
+[2.023s] Invoked command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jszr/Software/Ros2/bag_reader/build/bag_reader -- -j18 -l18
+[2.030s] Invoking command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jszr/Software/Ros2/bag_reader/build/bag_reader
+[2.035s] -- Install configuration: ""
+[2.035s] -- Installing: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/lib/bag_reader/parse_bag
+[2.035s] -- Set runtime path of "/home/jszr/Software/Ros2/bag_reader/install/bag_reader/lib/bag_reader/parse_bag" to ""
+[2.035s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/ament_index/resource_index/package_run_dependencies/bag_reader
+[2.035s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/ament_index/resource_index/parent_prefix_path/bag_reader
+[2.035s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/ament_prefix_path.sh
+[2.035s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/ament_prefix_path.dsv
+[2.035s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/path.sh
+[2.035s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/path.dsv
+[2.036s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.bash
+[2.036s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.sh
+[2.036s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.zsh
+[2.036s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.dsv
+[2.036s] -- Installing: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/package.dsv
+[2.036s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/ament_index/resource_index/packages/bag_reader
+[2.036s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/cmake/bag_readerConfig.cmake
+[2.036s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/cmake/bag_readerConfig-version.cmake
+[2.036s] -- Up-to-date: /home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/package.xml
+[2.037s] Invoked command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jszr/Software/Ros2/bag_reader/build/bag_reader

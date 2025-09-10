@@ -1,0 +1,18 @@
+running egg_info
+writing manifest file '../../build/python_topic/python_topic.egg-info/SOURCES.txt'
+running build
+running build_py
+copying python_topic/novel_sub_mode.py -> /home/jszr/Software/Ros2/Topic/novel/build/python_topic/build/lib/python_topic
+copying python_topic/novel_pub_node.py -> /home/jszr/Software/Ros2/Topic/novel/build/python_topic/build/lib/python_topic
+running install
+running install_lib
+copying /home/jszr/Software/Ros2/Topic/novel/build/python_topic/build/lib/python_topic/novel_sub_mode.py -> /home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages/python_topic
+copying /home/jszr/Software/Ros2/Topic/novel/build/python_topic/build/lib/python_topic/novel_pub_node.py -> /home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages/python_topic
+byte-compiling /home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages/python_topic/novel_sub_mode.py to novel_sub_mode.cpython-310.pyc
+byte-compiling /home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages/python_topic/novel_pub_node.py to novel_pub_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages/python_topic-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/python_topic/python_topic.egg-info to /home/jszr/Software/Ros2/Topic/novel/install/python_topic/lib/python3.10/site-packages/python_topic-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/jszr/Software/Ros2/Topic/novel/build/python_topic/install.log'

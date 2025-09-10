@@ -1,0 +1,16 @@
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/lib/bag_reader/parse_bag
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/ament_index/resource_index/package_run_dependencies/bag_reader
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/ament_index/resource_index/parent_prefix_path/bag_reader
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/ament_prefix_path.sh
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/ament_prefix_path.dsv
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/path.sh
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/environment/path.dsv
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.bash
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.sh
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.zsh
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/local_setup.dsv
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/package.dsv
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/ament_index/resource_index/packages/bag_reader
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/cmake/bag_readerConfig.cmake
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/cmake/bag_readerConfig-version.cmake
+/home/jszr/Software/Ros2/bag_reader/install/bag_reader/share/bag_reader/package.xml

@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.8)
+project(ros_node)
+add_executable(ros_node launchROS.cpp)
+
+find_package(rclcpp REQUIRED)
+message(STATUS "Found rclcpp: ${rclcpp_INCLUDE_DIRS}")
+# message(STATUS "Found rclcpp libraries: ${rclcpp_LIBRARIES}")
+
+target_include_directories(ros_node PUBLIC ${rclcpp_INCLUDE_DIRS})
+target_link_libraries(ros_node ${rclcpp_LIBRARIES})

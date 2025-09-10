@@ -1,0 +1,18 @@
+[0.008s] Invoking command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jszr/Software/Ros2/bag_reader/build/bag_reader -- -j18 -l18
+[0.043s] [35m[1mConsolidate compiler generated dependencies of target parse_bag[0m
+[0.053s] [ 50%] [32mBuilding CXX object CMakeFiles/parse_bag.dir/src/bag_reader.cpp.o[0m
+[1.109s] [01m[K/home/jszr/Software/Ros2/bag_reader/src/bag_reader/src/bag_reader.cpp:[m[K In member function ‘[01m[Kvoid RosbagParser::processCompressedImage(std::shared_ptr<rosbag2_storage::SerializedBagMessage>)[m[K’:
+[1.109s] [01m[K/home/jszr/Software/Ros2/bag_reader/src/bag_reader/src/bag_reader.cpp:103:26:[m[K [01;31m[Kerror: [m[Kfound ‘[01m[K:[m[K’ in nested-name-specifier, expected ‘[01m[K::[m[K’
+[1.109s]   103 |             std::cin >> a[01;31m[K:[m[K
+[1.109s]       |                          [01;31m[K^[m[K
+[1.110s]       |                          [32m[K::[m[K
+[1.110s] [01m[K/home/jszr/Software/Ros2/bag_reader/src/bag_reader/src/bag_reader.cpp:103:25:[m[K [01;31m[Kerror: [m[K‘[01m[Ka[m[K’ is not a class, namespace, or enumeration
+[1.110s]   103 |             std::cin >> [01;31m[Ka[m[K:
+[1.110s]       |                         [01;31m[K^[m[K
+[1.114s] [01m[K/home/jszr/Software/Ros2/bag_reader/src/bag_reader/src/bag_reader.cpp:105:36:[m[K [01;31m[Kerror: [m[K‘[01m[Kimage_dir[m[K’ was not declared in this scope
+[1.114s]   105 |             fs::create_directories([01;31m[Kimage_dir[m[K);
+[1.114s]       |                                    [01;31m[K^~~~~~~~~[m[K
+[1.592s] gmake[2]: *** [CMakeFiles/parse_bag.dir/build.make:76：CMakeFiles/parse_bag.dir/src/bag_reader.cpp.o] 错误 1
+[1.592s] gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/parse_bag.dir/all] 错误 2
+[1.592s] gmake: *** [Makefile:146：all] 错误 2
+[1.595s] Invoked command in '/home/jszr/Software/Ros2/bag_reader/build/bag_reader' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jszr/Software/Ros2/bag_reader/build/bag_reader -- -j18 -l18
