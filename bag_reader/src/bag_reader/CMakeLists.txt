@@ -10,13 +10,17 @@ find_package(ament_cmake REQUIRED)
 # uncomment the following section in order to fill in
 # further dependencies manually.
 # find_package(<dependency> REQUIRED)
+find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(rosbag2_cpp REQUIRED)
 find_package(sensor_msgs REQUIRED)
 find_package(nav_msgs REQUIRED)
 find_package(tf2_msgs REQUIRED)
+find_package(example_interfaces REQUIRED)
 find_package(cv_bridge REQUIRED)
 find_package(OpenCV REQUIRED)
+find_package(PCL REQUIRED)
+find_package(pcl_conversions REQUIRED)
 
 add_executable(parse_bag src/bag_reader.cpp)
 
@@ -26,8 +30,11 @@ ament_target_dependencies(parse_bag
   sensor_msgs
   nav_msgs
   tf2_msgs
+  example_interfaces
   cv_bridge
   OpenCV
+  PCL
+  pcl_conversions
 )
 
 install(
